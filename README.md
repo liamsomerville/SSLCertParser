@@ -2,7 +2,7 @@
 A really basic Python SSL Certificate Parser
 
 Provides an output like this:
-
+```
 ==============================
 Certificate Details for:  www.google.com 
 ==============================
@@ -51,4 +51,4 @@ xwIDAQAB
 Certificate Validity
 ==========
 Hostname www.google.com does match certificate
-
+```
